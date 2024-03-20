@@ -1,0 +1,2 @@
+Deployed Link -> https://customize-umbrella-jet.vercel.app/
+GitHub Repo Link -> https://github.com/moitri-hazra/Customize-Umbrella
